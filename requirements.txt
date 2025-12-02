@@ -1,0 +1,12 @@
+faiss-cpu
+elasticsearch
+pdf2image
+spacy
+torch
+pytesseract
+transformers
+pymupdf
+reflex
+numpy
+yake
+pillow
